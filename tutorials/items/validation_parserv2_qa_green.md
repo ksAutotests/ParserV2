@@ -11,7 +11,6 @@ creator_name: Oleksandra K.
 creator_profile: https://github.com/Oleksandra2
 parser: v2
 keywords: validation, parser v2
----
 
 # Title    Title from the Tutorial body
 <!-- description -->   Description from the Tutorial body
@@ -33,6 +32,7 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 ## Intro
 Virtual tables point to data stored in another database.  Federated queries join local and virtual tables.  
 
+---
 
 ### Create package
 
